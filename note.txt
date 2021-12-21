@@ -1,0 +1,48 @@
+Thực hành số 1
+eg: https://www.w3schools.com/w3css/tryw3css_templates_band.htm
+
+Các bước tiến hành build The Band Project
+1. Phân tích
+2. Xây dựng (Xây Dựng phần base)
+3. Xây dựng từng phần theo phân tích
+4. Hoàn thiện
+
+----------------------------------------------------------------
+Những thành phần thường gặp trên website 
+1. Header (Đầu trang)
+2. Navigation (Điều hướng) (Navigation chính)
+    2.1 Banner (ảnh quảng cáo)
+3. Breadcrumb
+4. Sidebar (Navigation phụ) hoặc được gọi là sub-Navigation
+5. Slider (Nội dung có thể là hình ảnh, vid, chữ, nhưng thông thường là hình ảnh chạy)
+6. Content (Nội dung chính)
+7. Footer
+
+-------------------------------------------------------------
+1. Phân tích dự án The Band
+    Header
+    Slider
+    Container
+    Content
+        About
+        Tour
+        Contact
+        Location/Adress
+    Footer
+-------------------------------------------------------------
+2. Tạo Project base
+    Tạo file index
+    Tạo file assets: chứa những file tĩnh như js, img, vid, css...
+    Reset CSS
+-------------------------------------------------------------
+3. Xây dựng Project
+    fontawesome
+    themify icon
+
+
+
+
+
+
+
+
